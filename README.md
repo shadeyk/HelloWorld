@@ -3,6 +3,8 @@ Welcome to the very first goal of our course.
 
 Here is a quick guide to the [GitHub Markdown Language](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
+**Video Footage**: https://www.youtube.com/channel/UCHwChpwv42V-11fBbitzoHg
+
 ## Learning Goals
 1. Learn how to use GitHub
 2. Learn how to install and use IntelliJ
